@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+學歷
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 藝術設計國畫學士, 福州大學廈門工藝美術學院, 2009/6 - 2013/6
+* 美術教育與行政管理研究所 碩士, 國立臺灣師範大學, 2013/9 - 2016/6
 
-Work experience
+工作經歷
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 研究助理, 白鷺鷥文教基金會（2015年6月-2017年7月） 
+* 展覽總監/長歌藝術傳播 （2018年2月-2022年5月）
+* 硅谷亞洲藝術中心(Silicon Valley Asian Art Center)策展助理（2022年10月-2023年4月）
   
-Skills
+專長
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 展覽企劃、藝術導覽、藝術品銷售、藝術出版、藝術寫作、繪畫等
+* 語言：國語、英語 
+* 工具：Excel、PowerPoint、Word、Adobe Photoshop、Adobe XD
+
 
 Publications
 ======
@@ -54,6 +45,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
