@@ -27,19 +27,19 @@ redirect_from:
 * 工具：Excel、PowerPoint、Word、Adobe Photoshop、Adobe XD
 
 
-Publications
+藝術出版
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+藝術專訪與寫作
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+展覽企劃
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
