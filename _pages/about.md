@@ -26,7 +26,7 @@ redirect_from:
 * 語言：國語、英語 
 * 工具：Excel、PowerPoint、Word、Adobe Photoshop、Adobe XD
 
-參展經歷
+特邀導覽
 ======
 * 2019 福建東南拍賣十週年 特邀導覽員
 * 印象台灣-2019Art Taipei  台北藝術博覽會公益展演 觀眾導覽
