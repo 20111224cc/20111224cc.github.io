@@ -33,7 +33,6 @@ redirect_from:
 * 2021 作家筆墨 雲端導覽企劃
 * 2021 覓境 陳茂榮雲端導覽企劃
 
-
 主編
 ======
 * 《當時明月-龍山寺慶元宵》
@@ -42,10 +41,10 @@ redirect_from:
 
 書籍企劃
 ======
-* 《換鵝書法家》
-* 《一時豪興 陳坤一》
-* 《會痛的不是愛》
-* 《幽谷迷思》
+* [換鵝書法家](https://www.books.com.tw/products/0010814894)
+* [一時豪興](https://www.books.com.tw/products/0010860228)
+* [會痛的不是愛](https://www.books.com.tw/products/0010793413)
+* [幽谷迷思：微塵裏的景致](https://www.books.com.tw/products/0010805356)
 
 課程企劃
 ======
