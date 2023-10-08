@@ -35,9 +35,9 @@ redirect_from:
 
 主編
 ======
-* 《當時明月-龍山寺慶元宵》
-* 《千年山水-北宋三畫導覽》
-* 《筆鑿-杜三鑫書畫印》
+* [當時明月：龍山寺慶元宵](https://www.books.com.tw/products/0010904812)
+* [千年山水 半日浮生：走進北宋三畫](https://www.books.com.tw/products/0010904911)
+* [筆鑿：散仙.杜三鑫 書.畫.印](https://www.sanmin.com.tw/product/index/010198934)
 
 書籍企劃
 ======
