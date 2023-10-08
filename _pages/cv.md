@@ -52,7 +52,7 @@ redirect_from:
 * 《亮軒說書-紅樓夢》
 * 《畢竟我們還有詩》
 
-藝術出版
+藝術專訪與寫作
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

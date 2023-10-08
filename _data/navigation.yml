@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "藝術專訪與寫作"
-    url: /talks/   
+  # - title: "藝術專訪與寫作"
+  #   url: /talks/   
 
   - title: "藝術出版"
     url: /publications/
