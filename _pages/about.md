@@ -52,6 +52,21 @@ redirect_from:
 * 《亮軒說書-紅樓夢》
 * 《畢竟我們還有詩》
 
+展覽影片企劃/執行
+======
+* [大彩飛揚-古銑賢作品展](https://www.youtube.com/watch?v=YRboSbBJ0ZE&ab_channel=SiliconValleyAsianArtCenter)
+* [東方後現代藝術家 林章湖](https://www.youtube.com/watch?v=GmllAyriWiM&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+* [筆鑿 杜三鑫 書・畫・印 — 艁像](https://www.youtube.com/watch?v=LxEvNwb2P1o&list=PLpj-edCE2-Y7sTXA_eTSz_W9vHVLS_gsz&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+
+導覽影片
+======
+* [《作家筆墨—當文學與美學遇合》線上導覽——亮軒](https://www.youtube.com/watch?v=8qRYiiT2HfI&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+* [《作家筆墨—當文學與美學遇合》線上導覽——羅青](https://www.youtube.com/watch?v=8qRYiiT2HfI&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD) 
+* [《作家筆墨—當文學與美學遇合》線上導覽——曾昭旭](https://www.youtube.com/watch?v=6i7Orfp4h14&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+* [《作家筆墨—當文學與美學遇合》線上導覽——楚戈](https://www.youtube.com/watch?v=Q4qWtfiJoSI&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+* [《作家筆墨—當文學與美學遇合》線上導覽——劉墉](https://www.youtube.com/watch?v=2L7bzMS7Uao&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+* [《覓境 – 陳茂榮畫展》線上導覽－雲深秀嶺](https://www.youtube.com/watch?v=rfjT6_dy_kU&ab_channel=%E9%95%B7%E6%AD%8C%E8%97%9D%E8%A1%93%E5%82%B3%E6%92%AD)
+
 藝術專訪與寫作
 ======
   <ul>{% for post in site.publications %}

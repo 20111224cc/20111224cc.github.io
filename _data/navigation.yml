@@ -6,8 +6,8 @@ main:
   - title: "藝術專訪與寫作"
     url: /publications/
 
-  - title: "展覽企劃"
-    url: /teaching/    
+  # - title: "展覽企劃"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
